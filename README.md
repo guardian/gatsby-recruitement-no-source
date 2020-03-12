@@ -1,3 +1,8 @@
+# Gatsby Spike w/o Source
+Spike for a Gatsby-based Developers site for use in recruiting.
+
+Set up using Gatsby.js docs [quick start instructions](https://www.gatsbyjs.org/docs/quick-start).
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -97,3 +102,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
