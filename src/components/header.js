@@ -1,6 +1,7 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+import Navbar from "./navbar"
 
 const menuItems = [
   { name: "home", path: "/" },
@@ -52,6 +53,7 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    <Navbar menuItems={menuItems} />
   </header>
 )
 
