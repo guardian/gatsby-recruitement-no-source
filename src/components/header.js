@@ -7,19 +7,19 @@ const menuItems = [
   { name: "home", path: "/" },
   {
     name: "diversity & inclusion",
-    path: "/diversity",
+    path: "/diversity/",
   },
   {
     name: "open people",
-    path: "/open-people",
+    path: "/open-people/",
   },
   {
     name: "open source",
-    path: "/open-source",
+    path: "/open-source/",
   },
   {
     name: "events & talks",
-    path: "/events",
+    path: "/events/",
   },
 ]
 const Header = ({ siteTitle }) => (
